@@ -2,4 +2,4 @@
 
 what the day?
 
-today is Monda 20230123
+today is Monday 20230123
